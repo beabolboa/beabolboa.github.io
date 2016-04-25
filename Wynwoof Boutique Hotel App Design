@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Portfolio</title>
+<style>
+  body {
+    font-family: 'Century Gothic', san-serif;
+  }
+  a {
+    color: #14B69E;
+    text-decoration: none;
+  }
+   h2 {
+    color: #14B69E;
+    text-decoration: none;
+  }
+</style>
+</head>
+<body>
+<a href= "index">Home </a>|
+<a href= "about.html">About Bea </a>|
+<a href= "portfolio.html">Portfolio </a>|
+<center>
+<img src="LOGO FOR WEB.png" width="300">
+<br>
+<h2> Wynwoof Boutique Hotel</h2>
+<br>
+App Design for Wynwoof Boutique Hotel. This project was for Rapid Visualization.
+<br>
+<img src="App 1.jpg" width="240">
+<img src="App 2.jpg" width="240">
+<img src="App 3.jpg" width="240">
+<br>
+<img src="App 4.jpg" width="240">
+<img src="App 5.jpg" width="240">
+<img src="App 6.jpg" width="240">
+</center>
+</body>
+<footer>
+<center><h2> Social Media</h2>
+<a href="http://instagram.com/beabolboa" target="_blank">Instagram</a> 
+<a href="https://www.linked.com/beabolboa" target="_blank">LinkedIn</a> 
+<a href="https://twitter.com/beabolboa" target="_blank">Twitter</a>
+</center>
+</footer>
+</html>
